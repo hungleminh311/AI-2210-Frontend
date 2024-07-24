@@ -1,0 +1,78 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "dismissButtonLabel": "Dismiss this announcement",
+        "eventDescription": "GeneriCon 2024 is on June 7 – 9 in Denver. Don't miss out on insightful sessions and networking opportunities!",
+        "linkText": "Get your ticket today!",
+        "theme": "neo-brutal"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development",
+        "title": "Engineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development Engineering Innovation at the Roll of a Dice Engineering Innovation at the Roll of a Dice",
+        "title": "Engineering Innovation at the Roll of a Dice Engineering Innovation at the Roll of a Dice\nEngineering Innovation at the Roll of a Dice\nEngineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development",
+        "title": "Engineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "description": "Engineering Innovation at the Roll of a Dice",
+        "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development",
+        "title": "Engineering Innovation at the Roll of a Dice Engineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "description": "Discover how our app can revolutionize your engineering and development tasks with cutting-edge features and seamless integration.",
+        "linkText": "Try gamble now",
+        "titlePart1": "Boost your engineering potential. Engineering Innovation at the Roll of a Dice",
+        "titlePart2": "Elevate your development process. Engineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development",
+        "title": "Engineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Join our newsletter to receive the latest news in Engineering \u0026 Development directly to your inbox.Engineering Innovation at the Roll of a DiceEngineering Innovation at the Roll of a Dice",
+        "emailLabel": "Your Email Address Engineering Innovation at the Roll of a Dice Engineering Innovation at the Roll of a Dice",
+        "heading": "Stay in the Loop Engineering Innovation at the Roll of a Dice Engineering Innovation at the Roll of a Dice"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development",
+        "title": "Engineering Innovation at the Roll of a Dice"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Engineering Innovation at the Roll of a Dice",
+  "subtitle": "Welcome to Gamble - Where Risk Meets Ingenuity in Engineering \u0026 Development"
+}
